@@ -1,6 +1,6 @@
 # ¡Hola, soy Luigi! 👋
 
-Soy un desarrollador de software apasionado por crear soluciones eficientes y escalables. Actualmente, estoy ampliando mis conocimientos en Java y explorando patrones de diseño y arquitectura para mejorar mis habilidades en el desarrollo backend.
+Soy un desarrollador de software apasionado por crear soluciones eficientes y escalables. Actualmente, estoy ampliando mis conocimientos en el desarrollo de software y explorando patrones de diseño y arquitectura para mejorar mis habilidades en la creación de software sostenible, escalable y fácil de entender.
 
 ## 📫 Cómo contactarme
 - 📧 **Correo electrónico:** [luigillerena77@gmail.com](mailto:luigillerena77@gmail.com)
@@ -11,13 +11,10 @@ Soy un desarrollador de software apasionado por crear soluciones eficientes y es
 - **TypeScript**, **JavaScript**
 - **React**, **Angular**
 
-
 ### Backend:
 - **PHP**
-- **Java**, 
-- **SQL** 
-
-
+- **Java**
+- **SQL**
 
 ## 🌱 Actualmente aprendiendo
 - Patrones de diseño y arquitectura de software
@@ -27,4 +24,4 @@ Soy un desarrollador de software apasionado por crear soluciones eficientes y es
 
 ---
 
-⭐️ *No dudes en conectar conmigo o explorar mis repositorios para conocer más sobre mis proyectos y mi proceso de aprendizaje.* 
+⭐️ *No dudes en conectar conmigo o explorar mis repositorios para conocer más sobre mis proyectos y mi proceso de aprendizaje.*
